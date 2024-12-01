@@ -1,0 +1,16 @@
+# Ignore environments
+mlops/
+mlflow_env/
+Course material/
+
+#ignore Data
+Data/
+
+# mlruns  - they contain large files
+mlflow_my_version/mlruns
+mlflow_my_version/1-ML_project/mlruns
+mlflow_my_version/1-ML_project/mlartifacts
+
+#other miscellenious files
+.vscode/
+.DS_Store
