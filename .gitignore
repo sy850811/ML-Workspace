@@ -6,6 +6,7 @@ dvc_env/
 
 #ignore Data
 Data/
+!./DVCDEMO/data
 
 # mlruns  - they contain large files
 mlflow_my_version/mlruns
